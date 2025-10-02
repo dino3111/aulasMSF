@@ -1,0 +1,2 @@
+# Pergunta 2:
+# As velocidades finais são iguais para ambas as pistas, pois a bola parte da mesma altura e não há perdas de energia. Pela conservação da energia, toda a energia potencial inicial transforma-se em energia cinética, independentemente da forma da pista. O que muda é apenas o tempo que a bola demora a chegar ao fim, na pista parabólica, o movimento é mais lento no início.

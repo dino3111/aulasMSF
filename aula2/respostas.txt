@@ -1,0 +1,14 @@
+Pergunta 1:
+Para verificar que esta função está a funcionar corretamente, podemos usar um conjunto de dados mais simples, 
+onde seja fácil calcular os coeficientes, por exemplo: o array x - [1,2,3] e o y - [2,4,6] (porque existe uma relação exata y = 2x).
+Assim o resultado esperado será m = 2, b = 0 e r^2 = 1.
+
+Pergunta 2: 
+Uma maneira de estimar o erro no valor de X na alínea d, é ao usar a propagação de incertezas da equação da reta X = mL + b.
+A incerteza do X é dado por Raiz de ((L*im)^2 + (ib)^2) onde im e ib são incerteza de m e incerteza de b, sucessivamente.
+Assim permite calcular uma margem de erro para X, considerando as variações nos coeficientes.
+
+Pergunta 3:
+Para descobrir a meia-vida do isótopo, usamos uma fórmula que envolve o logaritmo de 2 dividido pela constante de decaimento, 
+que é determinada por regressão linear. Depois de aplicar essa equação aos dados experimentais, 
+chegamos ao valor aproximado de 8,19 dias para a meia-vida do isótopo analisado.

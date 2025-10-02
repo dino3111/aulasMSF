@@ -1,0 +1,14 @@
+Pergunta 1:
+Como variam os erros na posição e de velocidade com o
+passo de tempo? Esses padrões repetiam para outras
+funções de aceleração? Justifique.
+
+Os erros na posição e velocidade diminuem quando o passo de tempo é reduzido, pois as aproximações feitas pelo método de Euler tornam-se mais precisas. Este comportamento ocorre para outras funções de aceleração, mas se a aceleração variar de forma complexa, os erros podem ser maiores e exigir métodos numéricos mais avançados.
+
+Pergunta 2:
+Como é que os resultados são afectados
+pela inclusão da resistência do ar?
+Como seriam diferentes se a velocidade
+terminal fosse muito maior?
+
+A inclusão da resistência do ar reduz a altura máxima e aumenta o tempo de retorno à posição inicial. Se a velocidade terminal fosse muito maior, os efeitos da resistência do ar seriam menores, resultando em uma altura máxima maior e um tempo de retorno menor, aproximando-se do caso sem resistência do ar.

@@ -1,0 +1,3 @@
+Pergunta 1: O cálculo simbólico é útil quando precisamos de expressões gerais que descrevam um sistema sem depender de valores específicos. Por exemplo, ao derivar fórmulas para a velocidade v(t) e a posição x(t) a partir da aceleração, conseguimos analisar o movimento em diferentes condições sem refazer os cálculos.
+
+Pergunta 2: Se a velocidade terminal fosse muito elevada, a resistência do ar teria menos influência. O volante ia cair mais rápido e o movimento ia ser parecido com a queda livre, com aceleração quase constante e próxima à gravidade.
